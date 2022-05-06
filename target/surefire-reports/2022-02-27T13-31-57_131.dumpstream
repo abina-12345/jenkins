@@ -1,0 +1,4 @@
+# Created at 2022-02-27T13:31:57.466
+Boot Manifest-JAR contains absolute paths in classpath 'E:\batch258\org.magnitia.googlesearchpiccontainer\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
